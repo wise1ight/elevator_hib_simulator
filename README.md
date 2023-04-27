@@ -1,5 +1,5 @@
 # Elevator HIB Simulator
-엘리베이터의 HIB(Hall Indicator Button)에서 출력하는 화살표 모양을 체스보드위에 나타내기
+엘리베이터의 HIB(층 표시기, Hall Indicator Button)에서 출력하는 화살표 모양을 체스보드위에 나타내기
 
 ## 소스코드
 * [카메라 캘리브레이션](./camera_calibration.ipynb)
@@ -16,6 +16,6 @@
   3.16860062e+00]
 
 ## 비교
-| HIB(층 표시기) | 체스보드 |
+| HIB | 체스보드 |
 |--------------|-------|
 |![HIB](./hib.jpeg)|![체스보드](./screenshot.png)|
