@@ -1,7 +1,11 @@
-# cvhomework
-컴퓨터 비전 과제
+# Elevator HIB Simulator
+엘리베이터의 HIB(Hall Indicator Button)에서 출력하는 화살표 모양을 체스보드위에 나타내기
 
-## Camera Calibration Results
+## 소스코드
+* [카메라 캘리브레이션](./camera_calibration.ipynb)
+* [체스보드에 HIB 화살표 출력](./elevator_hib_simulator.ipynb)
+
+## 카메라 캘리브레이션 결과
 * The number of selected images = 10
 * RMS error = 0.25276258568391474
 * Camera matrix (K) = 
